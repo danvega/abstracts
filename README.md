@@ -8,3 +8,7 @@ This repository contains abstracts for talks I can give. The format depends on t
 - Workshops
 
 If you're interested in having me speak at your event please reach out to me on [Twitter](http://twitter.com/therealdanvega).
+
+## Talks
+
+- [Introduction to building REST services with Spring Boot](rest-service-spring-boot.md)
