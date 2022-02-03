@@ -12,3 +12,4 @@ If you're interested in having me speak at your event please reach out to me on 
 ## Talks
 
 - [Introduction to building REST services with Spring Boot](rest-service-spring-boot.md)
+- [Full-Stack Java Development with Spring Boot](full-stack-java-spring-boot.md)
