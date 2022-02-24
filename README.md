@@ -13,3 +13,4 @@ If you're interested in having me speak at your event please reach out to me on 
 
 - [Introduction to building REST services with Spring Boot](rest-service-spring-boot.md)
 - [Full-Stack Java Development with Spring Boot](full-stack-java-spring-boot.md)
+- [What's new in Spring Boot 2.6](spring-boot-26.md)
