@@ -17,3 +17,4 @@ If you're interested in having me speak at your event please reach out to me on 
 - [Spring for GraphQL](spring-for-graphql.md)
 - [Monolith to Microservices](./monolith-to-microservices.md)
 - [Level Up Your Integration Testing With Testcontainers](./test-containers.md)
+- [What's new in Nuxt 3](./nuxt-3.md)
