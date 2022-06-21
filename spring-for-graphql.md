@@ -1,4 +1,4 @@
-# Spring for GrqphQL
+# Spring for GraphQL
 
 In a world where multiple applications and clients are calling your APIs, you end up having to create custom endpoints for different views of your data. What if you could provide fewer endpoints and let the consumer decide on which data they need.
 
