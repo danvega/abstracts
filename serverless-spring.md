@@ -1,0 +1,7 @@
+# Serverless Spring
+
+If you’re building applications for the web chances are you have heard the term Serverless before, but what does that mean? As you have probably already guessed there are servers involved, the serverless part just implies that you don’t have to provision them or care about who has. In this talk, we will explore the Serverless paradigm and how it can be used to build applications with Java and Spring.
+
+While you can write serverless applications just using Java you will quickly find that you need features like dependency injection, configuration, observability, data access, testing, and more. This is where you can leverage your existing Spring knowledge and use Spring Boot to build serverless applications. In addition, Spring Cloud Function gives you the ability to write all of your functions with the same consistent programming model across serverless providers.
+
+Thanks to the Ahead of Time (AOT) compilation in Spring Boot 3 you can take advantage of fast startup times and less memory consumption by leveraging native images. By the end of this presentation, you will have a good idea of what workloads are best suited for serverless and how to build and deploy them using Java and Spring.
