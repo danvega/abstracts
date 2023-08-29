@@ -1,0 +1,5 @@
+# The Future of Java is Now: What's new in JDK 21
+
+In the ever-evolving landscape of software development, staying ahead of the curve is crucial. Java, a language that has stood the test of time, continues to innovate with its latest release - JDK 21. This talk aims to be your definitive guide to understanding and leveraging the major new features introduced in this groundbreaking update.
+
+From virtual threads and enhanced pattern matching to sealed interfaces, new garbage collection algorithms, and API improvements, JDK 21 is packed with features that will redefine how you approach Java programming. Whether you're a seasoned Java developer or new to the language, this talk will equip you with the knowledge and skills to make the most of JDK 21's cutting-edge features. Don't miss this opportunity to step into the future of Java development.

@@ -24,3 +24,5 @@ If you're interested in having me speak at your event please reach out to me on 
 - [Level Up Your Integration Testing With Testcontainers](./test-containers.md)
 - [What's new in Nuxt 3](./nuxt-3.md)
 - [Embracing AI: Overcoming Fear and Unleashing the Potential of Artificial Intelligence](ai.md)
+- [JDK 21](./jdk-21.md)
+- [JDK 21](./jdk-21.md)
