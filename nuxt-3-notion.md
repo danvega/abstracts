@@ -1,0 +1,3 @@
+# Building Nuxt 3 Applications powered by Notion
+
+In today's world, it's essential for success to build web applications that are dynamic, flexible, and user-friendly. This is where the powerful combination of Nuxt 3 and Notion comes in. In this session, I'll show you what I learned while building and deploying a content site powered by the Notion API. By the end of this session, you will have the knowledge required to start building your own solutions with Nuxt and Notion.
