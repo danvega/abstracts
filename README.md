@@ -27,3 +27,4 @@ If you're interested in having me speak at your event please reach out to me on 
 - [JDK 21](./jdk-21.md)
 - [JDK 21](./jdk-21.md)
 - [wtf](./wtf.md)
+- [Virtual Threads](./virtual-threads.md)
