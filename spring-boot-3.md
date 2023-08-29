@@ -1,5 +1,7 @@
-# What’s new in Spring Boot 3.0
+# 🚀Spring Boot 3 and Beyond!
 
-Spring Boot 3.0 was just released and it’s packed full of amazing new features. In this session, you will learn about some of the new and exciting enhancements that make this one of the most anticipated releases of Spring Boot EVER!
+This presentation introduces some of the new and exciting features in Spring Boot 3.0 and beyond. One of the key highlights of Spring Boot 3.0 is the built-in AOT (Ahead of Time) support for GraalVM's native image. This groundbreaking addition revolutionizes your approach to application development and unlocks a multitude of unprecedented possibilities.
 
-This release is headlined by the built-in AOT support for GraalVM’s native image. This is going to change the way you think about building applications going forward and opens up a whole new world of possibilities. Spring Boot 3 is moving towards a Java 17 baseline and Jakarta EE 9 and we will discuss what that means for you. By the end of this session, you will have everything you need to start building applications with Spring Boot 3.
+Furthermore, Spring Boot 3 aligns itself with Java 17 as the baseline version and embraces Jakarta EE 9. We will explore the implications of this alignment and what it means for your projects.
+
+Spring Boot 3.1 introduces exciting new features for developing, testing, and deploying applications. Additionally, we will briefly discuss the upcoming release of Spring Boot 3.2, which promises to bring support for Virtual Threads and Project Loom. By the end of this session, you will have all the essential knowledge to begin building cutting-edge applications using Spring Boot 3.0 and beyond.
