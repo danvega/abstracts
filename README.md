@@ -30,3 +30,4 @@ If you're interested in having me speak at your event please reach out to me on 
 - [Level Up Your Integration Testing With Testcontainers](./test-containers.md)
 - [What's new in Nuxt 3](./nuxt-3.md)
 - [Serialization Essentials: A Developer's Toolkit for Java, Jackson, and Spring](./java-serialization.md)
+- [Navigating the Frontend Landscape](./java-frontends.md)
