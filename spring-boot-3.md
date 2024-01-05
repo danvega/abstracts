@@ -1,7 +1,5 @@
 # 🚀Spring Boot 3 and Beyond!
 
-This presentation introduces some of the new and exciting features in Spring Boot 3.0 and beyond. One of the key highlights of Spring Boot 3.0 is the built-in AOT (Ahead of Time) support for GraalVM's native image. This groundbreaking addition revolutionizes your approach to application development and unlocks a multitude of unprecedented possibilities.
+This presentation introduces some of the new and exciting features in Spring Boot 3.0 and beyond. A major focus in Spring Boot 3.x has been on improving runtime efficiency. We will explore AOT (Ahead of Time) compilation, which is necessary for building native images with GraalVM. Additionally, you will learn about support for project CRaC and how Spring provides first-class support for Virtual Threads, one of the most exciting features introduced in the JDK.
 
-Furthermore, Spring Boot 3 aligns itself with Java 17 as the baseline version and embraces Jakarta EE 9. We will explore the implications of this alignment and what it means for your projects.
-
-Spring Boot 3.1 introduces exciting new features for developing, testing, and deploying applications. Additionally, we will briefly discuss the upcoming release of Spring Boot 3.2, which promises to bring support for Virtual Threads and Project Loom. By the end of this session, you will have all the essential knowledge to begin building cutting-edge applications using Spring Boot 3.0 and beyond.
+We will also cover developer experience features such as Docker Compose, the new Client Abstractions, and more! If we are going to discuss new features, we should also spend some time talking about how to upgrade your 2.x applications to Spring Boot 3.x and the tools available in the ecosystem to help automate this process. By the end of this presentation, you will be excited about the offerings of Spring Framework 6.x and Spring Boot 3.x, and equipped with the knowledge to perform an upgrade.
