@@ -11,15 +11,16 @@ If you're interested in having me speak at your event please reach out to me on 
 
 ## Talks
 
-- [Does Your API Need a REST? Check Out GraphQL](spring-for-graphql.md)
-- [Serverless Spring](serverless-spring.md)
-- [Spring Recipes: A Collection of common-sense solutions](spring-recipes.md)
-- [Harnessing AI for Rapid Skill Acquisition: A Case Study in Language Learning](./ai-learning.md)
-- [The Developer Relations Playbook: How to build bridges by putting people first](./devrel.md)
-- [Full-Stack Java Development with Spring Boot](full-stack-java-spring-boot.md)
+- [Getting Started with Spring](./getting-started-spring.md)
 - [Spring Boot 3: Runtime Efficiency and Developer Experience](spring-boot-3.md)
 - [Spring Boot 3 and Beyond!](./spring-boot-3-beyond.md)
-- [Getting Started with Spring](./getting-started-spring.md)
+- [Spring Recipes: A Collection of common-sense solutions](spring-recipes.md)
+- [The Developer Relations Playbook: How to build bridges by putting people first](./devrel.md) 
+- [Spring into AI: Building Intelligent Applications with Spring AI](spring-into-ai.md)
+- [Does Your API Need a REST? Check Out GraphQL](spring-for-graphql.md)
+- [Serverless Spring](serverless-spring.md)
+- [Harnessing AI for Rapid Skill Acquisition: A Case Study in Language Learning](./ai-learning.md)
+- [Full-Stack Java Development with Spring Boot](full-stack-java-spring-boot.md)
 - [Securing Modern Java Applications: A Guide to Spring Security Best Practices](modern-spring-security.md)
 - [Building Nuxt 3 Applications powered by Notion](./nuxt-3-notion.md)
 - [Introduction to building REST services with Spring Boot](rest-service-spring-boot.md)
