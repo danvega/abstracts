@@ -1,4 +1,4 @@
-# Spring into AI: Building Intelligent Applications with Spring AI 
+# Building Intelligent Applications with Spring AI 
 
 It's impossible to spend a day in tech without hearing the words "Artificial Intelligence". In this presentation we will embark on a journey into the world of Artificial Intelligence (AI) specifically designed for beginners. We'll start by introducing the fundamental concepts of AI, demystifying its jargon, and exploring its potential impact on our everyday lives.
 
