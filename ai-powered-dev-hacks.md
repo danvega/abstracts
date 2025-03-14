@@ -1,0 +1,5 @@
+# Code Smarter, Not Harder: AI-Powered Dev Hacks for Daily Workflows
+
+In today's fast-paced software development landscape, AI has become a powerful tool for boosting developer productivity. This talk breaks down AI's practical role in your daily coding workflow through real-world examples and demonstrations of tools you can implement immediately. From mastering prompt engineering to running local models like Ollama, we'll explore techniques that benefit developers of all skill levels.
+
+You'll discover how to leverage AI for code comprehension, documentation generation, data transformation, and building your own productivity tools. Through practical demonstrations of both cloud-based and local AI solutions, we'll show how these technologies integrate seamlessly into your existing development routine. You'll leave this session with concrete implementation strategies for popular coding assistants, effective prompt techniques, and privacy-conscious approaches to AI adoption that will measurably enhance your development capabilities.
