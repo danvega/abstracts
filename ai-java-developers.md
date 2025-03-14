@@ -1,0 +1,5 @@
+# AI for Java Developers
+
+In today's tech landscape, Artificial Intelligence (AI) has become an unavoidable topic of discussion and innovation. This session bridges the gap between traditional Java development and AI, helping Java developers enter this exciting new field. We'll explain core principles of AI, machine learning, and deep learning using concepts familiar to Java developers and show how your existing Java skills apply to AI development.
+
+Through hands-on examples and real-world use cases, we'll explore how to implement AI features like natural language processing, computer vision, chatbots, recommendation systems, and sentiment analysis in Java-based systems. By the end of this talk, you'll have a solid foundation to start incorporating these powerful AI capabilities into your Java development workflow.
