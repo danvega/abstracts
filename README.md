@@ -36,3 +36,4 @@ If you're interested in having me speak at your event please reach out to me on 
 - [AI for Java Developers](./ai-java-developers.md)
 - [Code Smarter, Not Harder: AI-Powered Dev Hacks for ALl](./ai-powered-dev-hacks.md)
 - [The March towards Spring Boot 4](./spring-boot-4.md)
+- [Spring MCP](./spring-mcp.md)
