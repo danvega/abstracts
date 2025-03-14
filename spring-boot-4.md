@@ -1,0 +1,7 @@
+# The March towards Spring Boot 4 has begun - A look back at Spring Boot 3
+
+As we march towards Spring Boot 4, let's examine how Spring Boot 3 transformed enterprise Java development through foundational upgrades, developer empowerment, and operational excellence. From embracing Java 17 to enhancing cloud-native capabilities, Spring Boot 3 set new standards for building modern enterprise applications.
+
+Spring Boot 3 delivered major advances across platform capabilities, developer experience, runtime performance, observability, and security. The release modernized core infrastructure with virtual threads and native image support, while simplifying cloud deployment through enhanced Docker and container tooling. Developers gained improved testing frameworks, streamlined configuration, and intuitive service connectivity. Applications now benefit from comprehensive observability through unified metrics, traces and structured logging, alongside enhanced security controls and certificate management.
+
+By the end of this talk, you'll understand how to leverage Spring Boot 3's key capabilities to build more efficient, observable, and secure applications. Whether you're maintaining existing systems or starting new projects, you'll be equipped with practical knowledge to make the most of Spring Boot 3's features as we look ahead to version 4.
