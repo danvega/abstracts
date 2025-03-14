@@ -1,0 +1,3 @@
+# Beyond REST: Crafting a Modern GraphQL API Live
+
+Skip the slides and dive straight into code as we build a full-featured GraphQL API from scratch using Spring Boot. Through live coding, we'll implement essential features including schema-first design, batch loading optimization, virtual threads, and query-by-example filtering. You'll see firsthand how GraphQL solves common REST challenges like over-fetching and endpoint proliferation. By the end, you'll understand not just the basics of GraphQL, but also production-ready patterns for scalability and performance. Perfect for developers looking to modernize their API architecture with practical, battle-tested approaches.
