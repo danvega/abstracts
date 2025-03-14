@@ -1,0 +1,7 @@
+# Practical AI Integration with Java: A Hands-On Workshop
+
+In today's tech landscape, incorporating AI capabilities has become essential for modern applications. This comprehensive 4-hour workshop equips Java developers with practical skills needed to implement powerful AI features in their applications. Through a combination of theory and hands-on coding, you'll learn to build sophisticated AI integrations using familiar Java paradigms.
+
+Starting with foundational concepts, we'll progress to implementing specific AI capabilities including natural language processing, computer vision, and interactive chatbots. The workshop explores advanced techniques such as Retrieval-Augmented Generation (RAG) for enhanced context awareness, and the Model Context Protocol (MCP) for effective AI orchestration. Using Spring AI's powerful abstractions, you'll learn how to write model-agnostic code that works seamlessly with both cloud-based and local AI models, giving you the flexibility to choose the right solution for your specific needs.
+
+Through guided exercises, you'll gain hands-on experience with setting up AI development environments, integrating various AI capabilities into your applications, and building intelligent features that can process text, images, and audio using both local and cloud-based models.
