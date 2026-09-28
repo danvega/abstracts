@@ -4,7 +4,7 @@
 
 ## Abstract
 
-Hand a coding agent to someone who understands design, testing, and how systems fail, and they move faster than ever. Hand it to someone who doesn't, and they produce more code they can't explain, faster than ever. Same tool. Very different results.
+AI doesn't replace what you know. It multiplies it. Hand a coding agent to someone who understands design, testing, and how systems fail, and they move faster than ever. Hand it to someone who doesn't, and they produce more code they can't explain, faster than ever. Same tool. Very different results.
 
 That's what the "software engineering is dead" headlines miss. We've heard it before with code generators, low-code, and no-code. Each time, the job changed, the fundamentals stayed, and the people who understood the craft came out ahead.
 
